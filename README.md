@@ -8,4 +8,5 @@ This approach aims to maintain an organized queuing process for individuals visi
 
 
 ## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+
+<img width="941" height="493" alt="uml diagram lab assign 5" src="https://github.com/user-attachments/assets/159a0b8b-3083-4fe3-8c22-9737e0ddcecd" />
