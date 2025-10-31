@@ -9,4 +9,4 @@ This approach aims to maintain an organized queuing process for individuals visi
 
 ## Class Diagram
 
-<img width="941" height="493" alt="uml diagram lab assign 5" src="https://github.com/user-attachments/assets/159a0b8b-3083-4fe3-8c22-9737e0ddcecd" />
+<img width="1009" height="509" alt="uml diagram lab assign 5" src="https://github.com/user-attachments/assets/387f364f-f354-4372-9665-b2babf2d9cfc" />
